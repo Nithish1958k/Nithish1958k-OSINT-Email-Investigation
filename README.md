@@ -6,6 +6,10 @@ This project demonstrates an Open Source Intelligence (OSINT) investigation focu
 - Email found in one public data breach
 - Breached platform: Cutout.Pro
 - Exposure includes email, IP address, names, and hashed passwords
+## Additional Findings
+- No public GitHub repositories or developer profiles were linked to the target email
+- No credential leaks or data dumps were identified on paste-sharing platforms
+- Public search engine results did not reveal personal or sensitive information
 
 ## Skills Demonstrated
 - OSINT methodology
